@@ -29,19 +29,18 @@ h1.logo a, h2.logo2 a{margin-top: 14px; }
 h2.logo-my,
 a.logo-my{margin: auto; width: 100%; height: 100%; }
 </style>
-			<!-- Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
     (function (d, w, c) {
         (w[c] = w[c] || []).push(function() {
             try {
-                w.yaCounter45755838 = new Ya.Metrika({
-                    id:45755838,
+                w.yaCounter47714407 = new Ya.Metrika2({
+                    id:47714407,
                     clickmap:true,
                     trackLinks:true,
                     accurateTrackBounce:true,
                     webvisor:true,
-                    trackHash:true,
-                    ecommerce:"dataLayer"
+                    trackHash:true
                 });
             } catch(e) { }
         });
@@ -51,17 +50,23 @@ a.logo-my{margin: auto; width: 100%; height: 100%; }
             f = function () { n.parentNode.insertBefore(s, n); };
         s.type = "text/javascript";
         s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
 
         if (w.opera == "[object Opera]") {
             d.addEventListener("DOMContentLoaded", f, false);
         } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
+    })(document, window, "yandex_metrika_callbacks2");
 </script>
-<noscript><div><img src="https://mc.yandex.ru/watch/45755838" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="https://mc.yandex.ru/watch/47714407" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+<script src="https://zachestnyibiznes.ru/js/zchb-widget.js"></script>
 		</head>
 		<body>
+			<a class="zchbLink" href="https://zachestnyibiznes.ru/company/ip/316463200088318_462500180788_SUNDEEV-KONSTANTIN-EDUARDOVICh?w=1">
+    <div class="zchbWidgetSmall">
+        <div class="zchbHead zchbSmall"><big>Мы&nbsp;&ndash;&nbsp;<span>ЗА</span>ЧЕСТНЫЙБИЗНЕС</big></div>
+    </div>
+</a>
 			<div class="container">
 				<!--==============================header=================================-->
 				<header class="main clearfix">
